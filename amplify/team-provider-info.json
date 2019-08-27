@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "choreswithrewards-dev-20190827133832-authRole",
+            "UnauthRoleArn": "arn:aws:iam::413974767629:role/choreswithrewards-dev-20190827133832-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::413974767629:role/choreswithrewards-dev-20190827133832-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "choreswithrewards-dev-20190827133832-deployment",
+            "UnauthRoleName": "choreswithrewards-dev-20190827133832-unauthRole",
+            "StackName": "choreswithrewards-dev-20190827133832",
+            "StackId": "arn:aws:cloudformation:us-east-1:413974767629:stack/choreswithrewards-dev-20190827133832/f675ede0-c8cf-11e9-8a5e-0a4a1f15abc2"
+        }
+    }
+}
