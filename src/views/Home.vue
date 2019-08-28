@@ -11,10 +11,5 @@ export default {
   components: {
     Dashboard,
   },
-  computed: {
-      signedIn(){
-          return this.$store.getters.signedIn;
-      },
-  },
 };
 </script>
