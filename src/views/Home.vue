@@ -1,13 +1,20 @@
 <template>
-  <HelloWorld />
+  <div>
+      <Dashboard />
+  </div>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
+import Dashboard from '../components/Dashboard';
 
 export default {
   components: {
-    HelloWorld,
+    Dashboard,
+  },
+  computed: {
+      signedIn(){
+          return this.$store.getters.signedIn;
+      },
   },
 };
 </script>

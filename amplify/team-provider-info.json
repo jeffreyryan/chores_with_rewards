@@ -21,6 +21,11 @@
             "UnauthRoleName": "choreswithrewards-dev-20190827140302-unauthRole",
             "StackName": "choreswithrewards-dev-20190827140302",
             "StackId": "arn:aws:cloudformation:us-east-1:413974767629:stack/choreswithrewards-dev-20190827140302/62619dd0-c8d3-11e9-8bd3-1207b4ca758c"
+        },
+        "categories": {
+            "auth": {
+                "choreswithrewardsd0956e48": {}
+            }
         }
     }
 }
